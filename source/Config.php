@@ -5,7 +5,7 @@
  */
 define("SITE", [
     "name" => "Auth em MVC com PHP",
-    "desc" => "Aprenda a construir uma aplicação de autenticação em MVC com PHP do Jeito Certo neste curso Gratuito do YouTube",
+    "desc" => "Consturindo Sistema de Login de Alto Nível",
     "domain" => "localauth.com",
     "locale" => "pt_BR",
     "root" => ""
